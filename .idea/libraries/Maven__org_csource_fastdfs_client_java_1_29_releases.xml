@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.csource:fastdfs-client-java:1.29-releases">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/alirepository/org/csource/fastdfs-client-java/1.29-releases/fastdfs-client-java-1.29-releases.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/alirepository/org/csource/fastdfs-client-java/1.29-releases/fastdfs-client-java-1.29-releases-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/alirepository/org/csource/fastdfs-client-java/1.29-releases/fastdfs-client-java-1.29-releases-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
